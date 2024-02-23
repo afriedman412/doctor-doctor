@@ -1,0 +1,11 @@
+torch==2.2.1
+torchvision
+python-doctr
+deepdoctection
+pdfplumber
+autopep8
+isort
+ipykernel
+pango
+transformers
+timm
