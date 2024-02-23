@@ -6,5 +6,5 @@ df.reset_state()
 dp = next(iter(df))
 
 new_table = dp.tables[0].csv
-with open("new_table.csv") as f:
+with open("new_table.csv", "a+") as f:
     f.write(new_table)
