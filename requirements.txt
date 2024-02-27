@@ -1,7 +1,18 @@
 torch==2.2.1
+huggingface-hub==0.17.2
 torchvision
+catalogue==2.0.7
+
+importlib-metadata==4.11.2
+jsonlines==3.0.0
+mock==4.0.3
+numpy==1.22.3
+networkx==2.7.1
+tabulate==0.8.10
+pillow==10.0.1
+pypdf==3.17.3
+termcolor==2.0.1
 python-doctr
-deepdoctection
 pdfplumber
 autopep8
 isort
@@ -9,3 +20,4 @@ ipykernel
 pango
 transformers
 timm
+notebook

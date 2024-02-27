@@ -1,5 +1,6 @@
 sudo apt update
 sudo apt upgrade
+apt-get install git
 sudo apt install python3.11-venv
 sudo apt install python3-pip
 sudo apt install libpangoft2-1.0-0
